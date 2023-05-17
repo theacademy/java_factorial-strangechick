@@ -1,0 +1,3 @@
+To create a local repo, we just create a new folder. Then click on new terminal at folder to open the terminal and add a file to the local rep which means go to the directory of D1003 and type nano text.txt to create a file. nano creates a file, text is the file name, .txt is the file type. it could be .java or .json
+command s will save it  
+  
